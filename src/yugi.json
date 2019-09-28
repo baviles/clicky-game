@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Dark Magician",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51nXKpPjg6L.jpg",
+        "occupation": "help yugi",
+        "location": "Yugi Deck"
+    },
+    {
+        "id": 2,
+        "name": "Dark Magician Girl",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51Ux3XGtrKL._AC_.jpg",
+        "occupation": "help Kaiba",
+        "location": "Seto Kaiba Deck"
+    },
+    {
+        "id": 3,
+        "name": "Blue Eyes White Dragon",
+        "image": "https://ygoprodeck.com/pics/89631139.jpg",
+        "occupation": "help Kaiba",
+        "location": "Seto Kaiba Deck"
+    },
+    {
+        "id": 4,
+        "name": "Red Eye Black Dragon",
+        "image": "https://crystal-cdn2.crystalcommerce.com/photos/316675/large/Red-Eyes_B_Dragon_101.jpg",
+        "occupation": "help Joey",
+        "location": "Joeys Deck"
+    },
+    {
+        "id": 5,
+        "name": "Summoned Skull",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51VXEcJRpML.jpg",
+        "occupation": "help yugi",
+        "location": "Yugioh Deck"
+    },
+    {
+        "id": 6,
+        "name": "Time Wizard",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51e0hibzcWL._AC_.jpg",
+        "occupation": "help Joey",
+        "location": "Joey Deck"
+    },
+    {
+        "id": 7,
+        "name": "Magician Of Faith",
+        "image": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/MagicianofFaith-SDCL-EN-C-1E.png/revision/latest?cb=20171107114430",
+        "occupation": "help Tea",
+        "location": "Tea Deck"
+    },
+    {
+        "id": 8,
+        "name": "Cyber Commander",
+        "image": "https://ygoprodeck.com/pics/6400512.jpg",
+        "occupation": "help Tristan",
+        "location": "Tristan Deck"
+    },
+    {
+        "id": 9,
+        "name": "Morphin Jar",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51f5T1hIfAL._AC_.jpg",
+        "occupation": "help Bakura",
+        "location": "Bakura Deck"
+    },
+    {
+        "id": 10,
+        "name": "Hungry Burger ",
+        "image": "https://vignette.wikia.nocookie.net/yugioh/images/2/2d/HungryBurger-SRL-NA-C-UE.png/revision/latest?cb=20151126060720",
+        "occupation": "help Mokuba",
+        "location": "Mokuba Deck"
+    },
+    {
+        "id": 11,
+        "name": "The Winged Dragon Of Ra",
+        "image": "https://ygoprodeck.com/pics/10000010.jpg",
+        "occupation": "help Yami",
+        "location": "Yami"
+    },
+    {
+        "id": 12,
+        "name": "Ryu Ran",
+        "image": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/RyuRan-SRL-NA-C-UE.png/revision/latest?cb=20150508182257",
+        "occupation": "help Pegasus",
+        "location": "Pegasus Deck"
+    }
+]
